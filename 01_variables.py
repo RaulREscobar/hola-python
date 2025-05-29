@@ -1,4 +1,4 @@
-# Variables = todo en minusculas y con '_' 
+# Variables = todo en minusculas y con '_' = snake_case
 
 my_variable = 'My string Variable'
 print(my_variable)
